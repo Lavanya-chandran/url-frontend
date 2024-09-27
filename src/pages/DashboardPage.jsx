@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { useAuthStore } from "../store/authStore";
 import { formatDate } from "../utils/date";
-import Homepage from "./Homepage";
+import Homepage from "./HomePage";
 import Toggle from "../components/Toggle";
 
 const DashboardPage = () => {
